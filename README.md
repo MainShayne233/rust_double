@@ -11,10 +11,9 @@ Simple Rust web server that will double a number.
 git clone https://github.com/MainShayne233/rust_double
 cd rust_double
 
-```bash
 # run the application
 cargo run
-```
+
 
 ```bash
 # hit the server with a POST request and JSON payload
